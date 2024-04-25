@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View Code](https://github.com/moojica/frontend-mentor-social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View Site](https://moojica.github.io/frontend-mentor-social-links-profile/)
 
 ## My process
 
