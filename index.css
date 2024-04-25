@@ -143,3 +143,13 @@ li a:hover {
   background-color: var(--green);
   color: var(--off-black);
 }
+
+@media (max-width: 500px) {
+  .card {
+    width: 20rem;
+  }
+
+  li a {
+    min-width: 16rem;
+  }
+}
