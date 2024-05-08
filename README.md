@@ -28,7 +28,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/moojica/frontend-mentor-social-links-profile)
 - Live Site URL: [View Site](https://moojica.github.io/frontend-mentor-social-links-profile/)
 
 ## My process
@@ -45,7 +44,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Marcos Mujica](https://moojica.github.io/frontend-mentor-social-links-profile/)
 - Frontend Mentor - [@moojica](https://www.frontendmentor.io/profile/moojica)
 
 ## Acknowledgments
