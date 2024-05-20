@@ -68,6 +68,9 @@ h6 {
 #__next {
   isolation: isolate;
 }
+body {
+  background-color: var(--off-black);
+}
 
 main {
   display: flex;
@@ -75,7 +78,6 @@ main {
   min-height: 100vh;
   justify-content: center;
   align-items: center;
-  background-color: var(--off-black);
 }
 
 .card {
